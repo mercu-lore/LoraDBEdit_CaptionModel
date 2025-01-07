@@ -57,13 +57,16 @@ The project is currently in **optimization phase** and will be released soon. St
 1. **Prepare the Dataset**:
    - Use the LoraDBEdit interface to load and manage your image dataset.
    - Generate captions using the installed model.
-
-2. **Automate with ComfyUI** (Optional):
-   - Integrate with ComfyUI for seamless workflow automation.
-
-3. **Generate Captions**:
+  
+2. **Generate Captions**:
    - Add prefixes or modify captions as needed using the interface.
    - Save and manage the dataset for LoRA training.
+
+
+3. **Automate with ComfyUI** (Optional):
+   - Integrate with ComfyUI for seamless workflow automation.
+
+![LoraDBEdit](image/COMFYUI_workflow.png)
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests for any improvements or new features.
