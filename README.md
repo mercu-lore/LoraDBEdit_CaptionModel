@@ -2,6 +2,8 @@
 
 LoraDBEdit_CaptionModel is an advanced tool designed to optimize and manage datasets for training LoRA models. It offers features for generating customized captions for images and is fully integrated with Ollama and ComfyUI for seamless automation.
 
+![LoraDBEdit](image/example_image.jpg)
+
 ## Features
 
 - **Caption Generation**: Automatically generates captions for images using the LoraDBEdit_CaptionModel.
