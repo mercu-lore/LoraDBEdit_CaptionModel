@@ -61,7 +61,7 @@ The project is currently in **optimization phase** and will be released soon. St
 2. **Generate Captions**:
    - Add prefixes or modify captions as needed using the interface.
    - Save and manage the dataset for LoRA training.
-
+![LoraDBEdit](image/compare.png)
 
 3. **Automate with ComfyUI** (Optional):
    - Integrate with ComfyUI for seamless workflow automation.
